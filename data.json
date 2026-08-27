@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "weekKey": "",
+  "projects": [
+    { "name": "", "hours": 0 },
+    { "name": "", "hours": 0 }
+  ],
+  "history": [],
+  "cachedWeeks": null,
+  "lastSyncedAt": null
+}
